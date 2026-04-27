@@ -44,7 +44,6 @@ android {
 
 dependencies {
     implementation("io.github.react-native-tvos:react-android")
-
     if (hermesEnabled.toBoolean()) {
         implementation("io.github.react-native-tvos:hermes-android")
     } else {
