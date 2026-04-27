@@ -1,4 +1,20 @@
 {
-  "name": "EyeTestTV",
-  "displayName": "EyeTestTV"
+  "expo": {
+    "name": "EyeTestTV",
+    "slug": "eyetesttv",
+    "version": "1.0.0",
+    "orientation": "landscape",
+    "platforms": [
+      "android"
+    ],
+    "android": {
+      "package": "com.eyetesttv",
+      "versionCode": 1
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ac18fbaa-1373-474a-af94-a74b773bd448"
+      }
+    }
+  }
 }

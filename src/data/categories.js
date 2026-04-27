@@ -1,0 +1,17 @@
+export const categories = [
+  {id: 1, name: 'Color Vision Test', folder: 'color_vision'},
+  {id: 2, name: 'Snellen Chart', folder: 'snellen'},
+  {id: 3, name: 'Blur Detection', folder: 'blur'},
+  {id: 4, name: 'Contrast Sensitivity', folder: 'contrast'},
+  {id: 5, name: 'Astigmatism Test', folder: 'astigmatism'},
+  {id: 6, name: 'Ishihara Test', folder: 'ishihara'},
+  {id: 7, name: 'Near Vision', folder: 'near_vision'},
+  {id: 8, name: 'Peripheral Vision', folder: 'peripheral'},
+  {id: 9, name: 'Depth Perception', folder: 'depth'},
+  {id: 10, name: 'Eye Tracking', folder: 'eye_tracking'},
+  {id: 11, name: 'Glare Sensitivity', folder: 'glare'},
+  {id: 12, name: 'Shape Recognition', folder: 'shape'},
+  {id: 13, name: 'Letter Chart', folder: 'letter'},
+  {id: 14, name: 'Number Chart', folder: 'number'},
+  {id: 15, name: 'Pattern Test', folder: 'pattern'},
+];
